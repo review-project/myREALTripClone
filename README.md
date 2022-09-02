@@ -6,7 +6,7 @@
 ## 마이  리얼 트립 클론
 🗓 프로젝트 소개 : 마이  리얼 트립 클론 !</br>
 🗓 기간 : 2022.08.03 ~   </br>
-🗓 팀원: [로이](https://github.com/Roy-wonji) ,[성현](https://github.com/seonghyeonOrNot)</br>
+🗓 팀원: </br>
 🗓 리뷰어: [로이](https://github.com/Roy-wonji)
 
 ## 앱아이콘 
