@@ -26,7 +26,7 @@
 - `Notion` , `Figma`
 
 ## 디자인 패턴
-- MVC 패턴 
+- MVC 패턴  
 
 
 ## Commit 규칙
