@@ -26,7 +26,7 @@
 - `Notion` , `Figma`
 
 ## 디자인 패턴
-- MVVM 패턴 
+- MV 패턴 
 
 
 ## Commit 규칙
