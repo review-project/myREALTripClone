@@ -6,8 +6,9 @@
 ## 마이  리얼 트립 클론
 🗓 프로젝트 소개 : 마이  리얼 트립 클론 !</br>
 🗓 기간 : 2022.08.03 ~   </br>
+
 🗓 팀원:  [준희](https://github.com/Wnsrns)</br>
-🗓 팀원:  [준석](https://github.com/dotdotot)</br>
+🗓 팀원:  [준희](https://github.com/Wnsrns) 준희에용~~~~이현진입니다. [우성](https://github.com/jws0206)</br>
 🗓 리뷰어: [로이](https://github.com/Roy-wonji)
 
 ## 앱아이콘 
@@ -27,7 +28,7 @@
 - `Notion` , `Figma`
 
 ## 디자인 패턴
-- MVVM 패턴 
+- MVC 패턴  
 
 
 ## Commit 규칙
