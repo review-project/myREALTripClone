@@ -1,0 +1,52 @@
+body {
+    font-family: "맑은 고딕", 돋움, 굴림
+}
+
+.left-box {
+    margin-bottom: 30px;
+    margin-left: 50px;
+    background: white;
+    float: left;
+    width: 50%;
+    height: 500px;
+}
+
+.right1-box {
+    margin-bottom: 30px;
+    margin-right: 50px;
+    background: #B3E0FF;
+    float: right;
+    width: 43%;
+    height: 150px;
+}
+
+.right2-box {
+    margin-bottom: 30px;
+    margin-right: 50px;
+    background: #D3D3D3;
+    float: right;
+    width: 43%;
+    height: 320px;
+}
+
+.text {
+    margin-top: 15px;
+    margin-left: 10px;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 20px;
+
+    text-align: left;
+    /* color: blue; */
+}
+
+.text2 {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 15px;
+
+    text-align: left;
+    /* color: blue; */
+}

@@ -1,0 +1,8 @@
+/* 영상 size 상관없이 변경해주는 css */
+video {
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
